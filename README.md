@@ -3,7 +3,7 @@ silicon valley bitcoin alert
 
 ![Alt text](https://raw.githubusercontent.com/kiahamedi/SiliconValley-Bitcoin-Alert/master/silicon%20valley%20bitcoin%20alert.jpg "Screenshot")
 
-for run fist install notify-osd and 
+for run fist install notify-osd 
 
 [MySite link](http://kiahamedi.ir/)
 
